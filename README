@@ -1,0 +1,4 @@
+git add README
+git add.
+git commit -m 'input a message here'
+git push origin master
